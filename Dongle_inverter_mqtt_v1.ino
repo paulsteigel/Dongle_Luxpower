@@ -2,6 +2,7 @@
     NamPham
 */
 //////////// CLOUD ////////////
+// Connect to SNA via tcp/ip socket for polling data
 #include <WiFi.h>
 //#include "HTTPClient.h"
 static uint8_t g_eth_connected = 0;
